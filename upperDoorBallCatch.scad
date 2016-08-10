@@ -1,9 +1,12 @@
 $fn=50;
+
 cylinderDiameter = 21.7;
-cylinderHeight = 30;
+cylinderHeight = 27;
+
 capDiameter = cylinderDiameter + 3;
 capLoc = cylinderHeight;
 capHeight = 1.5;
+
 sphereLoc = capLoc;
 sphereDiameter = 14.5;
 
